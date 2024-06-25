@@ -24,7 +24,6 @@
 <a href="https://wa.link/5xlwv5" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Ramzy-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![C lang](https://img.shields.io/badge/-Clang-05122A?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPP&logoColor=563D7C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
