@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with C, C++, Python, JavaScript, HTML, CSS, Django, Nodejs, SQL, MySQL, and MongoDB.
+- 💬 Ask me about my experience with C, C#, Python, JavaScript, HTML, CSS, ASP.NET, Nodejs, MSSQL, MySQL, and MongoDB.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 I'm Training in ALX as Software Engineer and improving my Soft Skills 
 
@@ -35,6 +35,5 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
